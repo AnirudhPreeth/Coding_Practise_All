@@ -1,0 +1,7 @@
+// Initialize empty array. Add numbers 1-10. Iterate again and print specific value.
+public class Assignment1 {
+
+	public static void main(String[] args) {
+		int [] roll_number = {3, 55, 12, 35,}; 
+
+}

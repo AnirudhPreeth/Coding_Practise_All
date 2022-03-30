@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+E:\Windows10Upgrade\HeadFirstJava\.metadata\.plugins\org.eclipse.jdt.core
+574127678.index

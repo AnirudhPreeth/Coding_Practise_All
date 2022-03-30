@@ -1,0 +1,12 @@
+
+public class MyFirstApp8 {
+
+	public static void main(String[] args) {
+		// Make three sets of words to choose from. Add your own!!
+		String[] wordListOne = {"24/7", "multi-tier", "30,000 foot", "B-to-B", "win-win", "front-end", "web-based", "persvasive", "smart", "six-sigma", "critical path", "dynamic"};
+		String[] wordistTwo = {"empowered", "sticky", "value-added", "oriented", "centric", "disturbed", "clustered", "branded", "outside-the-box", "positioned", "networked", "focused", "leveraged", "aligned", "targeted", "shared", "cooperated", "accelerated"};
+		
+
+	}
+
+}

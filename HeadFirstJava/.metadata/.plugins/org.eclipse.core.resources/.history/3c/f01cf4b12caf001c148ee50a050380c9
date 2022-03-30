@@ -1,0 +1,23 @@
+// Pool Puzzle (Page 24). 
+
+/* a noise
+annoys
+an oyster
+
+*/
+public class MyFirstApp15 {
+
+	public static void main(String[] args) {
+		int x = 0;
+		while () {
+		
+			if(x<1) {
+				
+			}
+			if ()
+		}
+		
+
+	}
+
+}

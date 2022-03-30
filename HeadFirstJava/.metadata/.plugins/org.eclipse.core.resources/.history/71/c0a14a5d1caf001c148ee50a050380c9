@@ -1,0 +1,27 @@
+// Mixed Messages (Page 23)
+
+public class MyFirstApp14 {
+
+	public static void main(String[] args) {
+		int x = 0;
+		int y = 0;
+		while ( x < 5 ) {
+			
+		}
+		System.out.print(x + "" + y +" ");
+		x = x + 1;
+	}
+}
+
+
+/*
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+*/
