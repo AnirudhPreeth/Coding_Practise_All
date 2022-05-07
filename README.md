@@ -7,5 +7,10 @@
  
  C - 101 programs link : https://www.youtube.com/watch?v=vl794HKeXug&t=1208s
  
- 
- 
+ C++ links : https://www.youtube.com/watch?v=GQp1zzTwrIg
+             https://www.youtube.com/watch?v=8jLOx1hD3_o
+
+
+Python Data Structures link : https://www.youtube.com/watch?v=pkYVOmU3MgA&t=14s
+                     
+C and C++ Data Structures link : https://www.youtube.com/watch?v=B31LgI4Y4DQ
